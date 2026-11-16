@@ -1,0 +1,10 @@
+resultados/
+dados_trimados/
+*.fastq
+*.fq
+*.out
+*.krona
+*.html
+*.zip
+*.fmi
+*.dmp
